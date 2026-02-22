@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic[email]
+pyjwt
+python-multipart
+asyncpg
+fastapi-mail
+python-docx
+python-dotenv
+openai
